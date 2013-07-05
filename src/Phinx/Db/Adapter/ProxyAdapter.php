@@ -238,6 +238,7 @@ class ProxyAdapter implements AdapterInterface
             'text',
             'integer',
             'biginteger',
+            'smallinteger',
             'float',
             'decimal',
             'datetime',
